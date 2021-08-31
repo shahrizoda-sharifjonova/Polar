@@ -271,3 +271,42 @@ h2{
 .intro-3__rows{
     margin-top: 100px;
 }
+
+.column-4{
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-4__row__left{
+    margin-top: 120px;
+}
+
+.col-4__row__left-1{
+    display: flex;
+}
+
+
+.col-4-left__texts{
+    margin-left: 30px;
+}
+
+.col-4-left__h2{
+    font-size: 18px;
+    font-weight: 500;;
+}
+
+.col-4-left__h4{
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+.col-4-left__p{
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+.col-4-right__img{
+    width: 460px;
+}
